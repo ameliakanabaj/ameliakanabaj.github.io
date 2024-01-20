@@ -30,6 +30,23 @@
                 </ul>
             </li>
         </ul>
+    <table>
+            <tr>
+                <td rowspan="4"> El Paso </td>
+                <td rowspan="2"> Czort </td>
+                <td> Wielki Szelm </td>
+            </tr>
+            <tr>
+                <td> Forta </td>
+            </tr>
+            <tr>
+                <td rowspan="2"> Ellora </td>
+                <td> Witraz </td>
+            </tr>
+            <tr>
+                <td> Elza </td>
+            </tr>
+        </table>
         
 
 </body>
