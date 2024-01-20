@@ -17,7 +17,6 @@
             </h5>
             <a href="https://place.kitten.com" target="_blank">
                 <img src="http://placekitten.com/350/200" alt="Zdjecie kotka" >
-    </section>
     <section>
         <h3>Linki programistyczne:</h3>
         <ul> 
