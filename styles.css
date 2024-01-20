@@ -1,7 +1,8 @@
 td {
-    background-color: pink;
+    color: pink;
 }
 .photo1 {
-  border-radious: 10px;
+    border-radious: 10px;
+    box-shadow: 0 4px 8px gray;
 }
 
