@@ -1,7 +1,7 @@
-table {
+td {
     background-color: pink;
 }
-img {
+.photo1 {
   border-radious: 10px;
 }
 
