@@ -1,6 +1,9 @@
-table > td{
+table{
     background-color: pink;
 }
 img{
   border-radious: 10px;
+}
+body{
+    color: black;
 }
